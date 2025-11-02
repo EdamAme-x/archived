@@ -1,10 +1,3 @@
-# discord-nuker-frontend
-Discord荒らしツールのフロントエンドです。 
-
-Discord 荒らしツール
-
-### Rules
-
 #### PullRequest
 PR前には `pnpm lint`, `pnpm format` を実行してください。
 どうしても改善出来ないエラーが有れば、PRの文章の最初に
